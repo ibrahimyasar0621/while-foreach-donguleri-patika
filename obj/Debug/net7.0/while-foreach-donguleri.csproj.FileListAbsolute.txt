@@ -1,0 +1,14 @@
+C:\Users\ibrah\Desktop\ibrahim\pratikler\while-foreach-donguleri\bin\Debug\net7.0\while-foreach-donguleri.exe
+C:\Users\ibrah\Desktop\ibrahim\pratikler\while-foreach-donguleri\bin\Debug\net7.0\while-foreach-donguleri.deps.json
+C:\Users\ibrah\Desktop\ibrahim\pratikler\while-foreach-donguleri\bin\Debug\net7.0\while-foreach-donguleri.runtimeconfig.json
+C:\Users\ibrah\Desktop\ibrahim\pratikler\while-foreach-donguleri\bin\Debug\net7.0\while-foreach-donguleri.dll
+C:\Users\ibrah\Desktop\ibrahim\pratikler\while-foreach-donguleri\bin\Debug\net7.0\while-foreach-donguleri.pdb
+C:\Users\ibrah\Desktop\ibrahim\pratikler\while-foreach-donguleri\obj\Debug\net7.0\while-foreach-donguleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\ibrahim\pratikler\while-foreach-donguleri\obj\Debug\net7.0\while-foreach-donguleri.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\ibrahim\pratikler\while-foreach-donguleri\obj\Debug\net7.0\while-foreach-donguleri.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\ibrahim\pratikler\while-foreach-donguleri\obj\Debug\net7.0\while-foreach-donguleri.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\ibrahim\pratikler\while-foreach-donguleri\obj\Debug\net7.0\while-foreach-donguleri.dll
+C:\Users\ibrah\Desktop\ibrahim\pratikler\while-foreach-donguleri\obj\Debug\net7.0\refint\while-foreach-donguleri.dll
+C:\Users\ibrah\Desktop\ibrahim\pratikler\while-foreach-donguleri\obj\Debug\net7.0\while-foreach-donguleri.pdb
+C:\Users\ibrah\Desktop\ibrahim\pratikler\while-foreach-donguleri\obj\Debug\net7.0\while-foreach-donguleri.genruntimeconfig.cache
+C:\Users\ibrah\Desktop\ibrahim\pratikler\while-foreach-donguleri\obj\Debug\net7.0\ref\while-foreach-donguleri.dll
